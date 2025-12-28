@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a backend developer, exploring system architecture and multi-cloud infrastructures
+I’m a backend engineer with a strong focus on system architecture and distributed, multi-cloud infrastructures. I enjoy designing scalable backends, event-driven systems, and low-latency APIs, and I actively experiment with AWS, Azure, and GCP to understand real-world trade-offs.
+My work revolves around clean service boundaries, async processing, caching strategies, and reliability at scale, and I’m particularly interested in cloud-native design, agent-based systems, and infrastructure-aware backend engineering.
 
 
 ## 🌐 Socials:
