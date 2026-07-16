@@ -3,6 +3,7 @@ Backend dev aiming toward platform engineering, with strong interest in distribu
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govind-sys-1061a2314) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:govindsys1008@gmail.com) 
+![Portfolio](https://portfolio-nine-ivory-93.vercel.app/)
 
 ## What I am currently doing:
 Building Reliq platform and reading DDIA Book LOL
