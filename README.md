@@ -7,6 +7,7 @@ Backend dev aiming toward platform engineering, with strong interest in distribu
 
 ## What I am currently doing:
 Building Reliq platform and reading DDIA Book LOL
+And learning Golang as well
 
 ## Realization notes
 1. Pubsub or any queue system as orchestrator is bad architecture
